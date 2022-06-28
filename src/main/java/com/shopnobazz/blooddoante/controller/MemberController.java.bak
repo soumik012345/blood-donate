@@ -23,9 +23,5 @@ public String viewmember(Model model) {
 	return "member";
 	
 }
-if(check==true)
-{
-	i am false 
-}ss
-else("not fine"}
+
 }
