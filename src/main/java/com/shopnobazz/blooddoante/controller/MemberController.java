@@ -23,10 +23,9 @@ public String viewmember(Model model) {
 	return "member";
 	
 }
-# this code added for github tesing
-system.outprintlin('This for fahim test')
-for(i=0, i<10; i++){
-	system.out.println('ferfrfr')
-}
-
+if(check==true)
+{
+	i am false 
+}ss
+else("not fine"}
 }
